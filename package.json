@@ -1,0 +1,23 @@
+{
+  "name": "ms_bot_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yeonseok.seo@github.com/yeonseok-seo/ms_bot_test_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeonseok-seo/ms_bot_test_project/issues"
+  },
+  "homepage": "https://github.com/yeonseok-seo/ms_bot_test_project#readme",
+  "dependencies": {
+    "botbuilder": "^0.8.0",
+    "restify": "^4.0.4"
+  }
+}
